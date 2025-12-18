@@ -171,8 +171,6 @@ Recruiter reviewing and updating status
 
 Background worker processing email jobs
 
-Video link can be added here.
-
 ✅ Key Features
 JWT authentication
 
